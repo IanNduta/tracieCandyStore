@@ -4,6 +4,12 @@
     border: 3px solid plum
     
 }
+/* section{
+  min-height: 85vh;
+} */
+.sectionHeight{
+  /* min-height: 1vh; */
+}
 
 .narrowbox{
     margin:auto;
